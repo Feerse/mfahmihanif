@@ -17,7 +17,7 @@ const store = usePortfolioStore()
       <div class="grid md:grid-cols-2 gap-12 items-center">
         <div class="space-y-6">
           <p class="text-gray-600 leading-relaxed">
-            Saya adalah mahasiswa D4 Teknik Informatika Multimedia Semester 2 di Politeknik Negeri
+            Saya adalah mahasiswa D4 Teknik Informatika Multimedia Semester 3 di Politeknik Negeri
             Samarinda dengan passion dalam pengembangan web. Memiliki rekam jejak prestasi sebagai
             peraih
             <span class="font-semibold text-pastel-navy"
@@ -40,8 +40,8 @@ const store = usePortfolioStore()
             </div>
             <div class="p-4 bg-pastel-gray rounded-xl">
               <i data-lucide="graduation-cap" class="w-5 h-5 text-pastel-navy mb-2"></i>
-              <div class="text-sm text-gray-500">IP</div>
-              <div class="font-medium text-gray-800">3.97 / 4.00</div>
+              <div class="text-sm text-gray-500">IPK</div>
+              <div class="font-medium text-gray-800">3.93 / 4.00</div>
             </div>
           </div>
         </div>

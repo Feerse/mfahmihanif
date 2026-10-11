@@ -33,7 +33,7 @@ const store = usePortfolioStore()
             </h1>
 
             <p class="text-lg text-gray-600 mb-6 leading-relaxed">
-              Mahasiswa D4 Teknik Informatika Multimedia Semester 2 yang berfokus pada
+              Mahasiswa D4 Teknik Informatika Multimedia Semester 3 yang berfokus pada
               <span class="font-semibold text-pastel-navy">Full-stack Web Development</span>.
             </p>
 
@@ -96,7 +96,7 @@ const store = usePortfolioStore()
 													class="text-4xl font-bold text-white"
 													>MF</span
 												> -->
-                    <img src="../assets/me.png" alt="me!" class="rounded-full" />
+                    <img src="../assets/me.jpg" alt="me!" class="rounded-full" />
                   </div>
                   <h3 class="text-xl font-bold text-gray-800 mb-2">Muhammad Fahmi Hanif</h3>
                   <p class="text-pastel-navy font-medium mb-4">Full-stack Developer</p>
